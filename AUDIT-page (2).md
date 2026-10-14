@@ -1,4 +1,4 @@
-# AUDIT-page.md — Session 9 Portfolio
+# AUDIT-page.md — My AI Updated Portfolio
 
 **Scope:** `index.html` + `style.css`
 **Purpose:** Verify that every piece of content on the portfolio page is true, and that no fabricated personal information or unverified links are present.
